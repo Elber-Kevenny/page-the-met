@@ -9,5 +9,5 @@ Este projeto é uma landing page responsiva inspirada no layout do The Met, dese
 HTML5: Estrutura semântica e acessível.
 SCSS (Sass): Estilização modular e organizada, com uso de mixins, variáveis ​​e boas práticas de linting.
 Responsividade: Consultas de mídia e layout flexível para adaptação em diferentes tamanhos de tela.
-🔗 Links Importantes
+
 
